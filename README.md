@@ -1,8 +1,8 @@
 # DitoKP's Sticker Packs for Telegram
-This is the repository for DitoKP's Sticker Packs. All stickers created by Dito Kurnia P.
+This is the repository for DitoKP's Sticker Packs. All stickers created by Dito K P.
 
 ## List of DitoKP's Sticker Packs
-1. Kawaii Bread (COMING SOON)
+1. [Yum-chan, The Kawaii Bread (COMING SOON)](https://github.com/ditokp/ditokp-stickers)
 
 ## License
 Licensed under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/).
