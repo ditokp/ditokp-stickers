@@ -2,7 +2,7 @@
 This is the repository for DitoKP's Sticker Packs. All stickers created by Dito K P.
 
 ## List of DitoKP's Sticker Packs
-1. [Yum-chan, The Kawaii Bread (COMING SOON)](https://github.com/ditokp/ditokp-stickers)
+1. [Yum-chan, The Kawaii Bread](https://github.com/ditokp/ditokp-stickers/blob/master/DitoKP's%20Sticker%20Packs/Yum-chan_-_The_Kawaii_Bread/yum-chan.md)
 
 ## License
 Licensed under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/).
