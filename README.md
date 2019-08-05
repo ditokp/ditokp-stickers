@@ -1,4 +1,4 @@
-# DitoKP's Sticker Packs for Telegram
+# DitoKP's Sticker Packs
 This is the repository for DitoKP's Sticker Packs. All stickers created by Dito K P.
 
 ## List of DitoKP's Sticker Packs
